@@ -1,5 +1,5 @@
 # ReproducibleR_Project1
-This assignment is build to analyze a set of data and document it so that it is reproducible by others. And others can't replicate it, it is not science. The components of this repo are as follows:
+It is now possible to collect a large amount of data about personal movement using activity monitoring devices such as a Fitbit, Nike Fuelband, or Jawbone Up. These type of devices are part of the “quantified self” movement – a group of enthusiasts who take measurements about themselves regularly to improve their health, to find patterns in their behavior, or because they are tech geeks. But these data remain under-utilized both because the raw data are hard to obtain and there is a lack of statistical methods and software for processing and interpreting the data.
 
 R markdown file of the data analysis. (analysis_doc.rmd)
 The data itself. (steps_data.csv)
@@ -10,7 +10,7 @@ HTML file corresponding to the analysis_doc.rmd file.
 Below we give a more detailed breakdown of the various components of the assignment.
 
 Introduction
-There is a "quantified self" movement comprised of people who take measurements involving themselves methodically to improve personal health and find patterns in their behaviour. [I myself inadvertently fall into this category due to my many n = 1 experiements with intermittent fasting, cold exposure, extreme endurance, caloric restriction and various exercise and dietary regimens. I was doing data science without even knowing it. Over the years, through all the noise, I have found real gems that have revolutionized my well being.]
+There is a "quantified self" movement comprised of people who take measurements involving themselves methodically to improve personal health and find patterns in their behaviour.
 
 
 Variables of the activity monitoring data are given by:
